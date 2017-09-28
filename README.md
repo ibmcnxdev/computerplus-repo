@@ -1,3 +1,3 @@
 # computerplus-repo
 
-computer plus update
+computer plus readme update
